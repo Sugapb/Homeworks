@@ -1,0 +1,99 @@
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  margin-top: -45px;
+}
+
+body {
+  background-color: rgb(190, 150, 74);
+}
+
+.wrapper {
+  max-width: 1000px;
+  background-color: #f2eccf;
+}
+
+.image {
+  float: right;
+  padding: 10px;
+  width: 450px;
+  height: 350px;
+}
+
+.ice {
+  position: fixed;
+  width: 180px;
+  height: 280px;
+  right: 75px;
+  top: 10px;
+}
+
+.aragorn {
+  margin-right: 5px;
+  height: 180px;
+  width: 280px;
+  
+}
+
+
+
+.heading {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  border: 3px solid brown;
+}
+
+.chapter1 {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  border: 3px solid brown;
+  color: white;
+  text-shadow: 5px 5px 15px black, 0 0 1em black;
+  background-image: url(https://vignette.wikia.nocookie.net/lotr/images/e/e4/Minas_Tirith.jpg/revision/latest?cb=20110408141647&path-prefix=ru);
+}
+.chapter2 {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  border: 3px solid brown;
+  background-color: rgb(179, 163, 75);
+}
+
+.chapter3 {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  border: 3px solid brown;
+  background-image: url(https://img5.goodfon.ru/wallpaper/nbig/7/17/lord-of-the-rings-rohan-horse-green-flag-tolkien.jpg);
+}
+
+.chapter4 {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  font-weight: bold;
+  border: 3px solid brown;
+}
+ 
+.chapter5 {
+  margin: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: justify;
+  font-style: italic;
+  border: 3px solid brown;
+  background-color: rgb(223, 214, 204);
+}
+
+.tothetop{ 
+  margin-left: 350px; 
+}
