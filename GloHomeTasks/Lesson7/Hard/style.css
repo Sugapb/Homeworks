@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.wrap {
+  background: #ffffff;
+  margin: auto;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding-top: 77px;
+}
+
+.image {
+  width: 404px;
+  height: 630px;
+  margin-right: 75px;
+  padding-bottom: 97px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  color: #000000;
+}
+
+.name {
+  font-size: 48px;
+  font-weight: bold;
+  padding-top: 60px;
+}
+
+.autor {
+  font-size: 30px; 
+  padding-top: 15px;
+  font-weight: 100;
+}
+
+.text {
+  width: 526px;
+  font-size: 18px;
+  padding-top: 35px;
+}
+
+.price {
+  font-size: 48px;
+  color: #313131;
+  line-height: 0.56;
+  padding-top: 47px;
+}
+
+.button {
+  padding-top: 53px;
+}
+
+.btn_bay {
+  width: 175px;
+  border-radius: 5px;
+  background-color: #f05a22;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 20px 30px;
+  margin-right: 40px;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn_know {
+  width: 287px;
+  border-radius: 5px;
+  border: solid 2px #f05a22;
+  background-color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  color: #f05a22;
+  padding: 16px 30px;
+  outline: none;
+  cursor: pointer;
+}
+
+.delivery {
+  background-color: #f2f2f2;
+  padding-bottom: 100px;
+}
+
+.user {
+  font-size: 30px;
+  color: #333333;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding-top: 89px;
+}
+
+.opportunities {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: auto;
+  padding-top: 90px;
+  width: 1200px;
+}
+}
+
+.blok {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.picture {
+  width: 58px;
+  height: 50px;
+}
+
+.desc {
+  width: 200px;
+  font-size: 17px;
+  color: #333333;
+}
+
+.users {
+  width: 1200px;
+  margin: auto;
+  padding-bottom: 100px;
+}
+
+.person {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 70px;
+}
+
+.foto {
+  padding-bottom: 30px;
+}
